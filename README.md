@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=absara&label=Profile%20views&color=0e75b6&style=flat" alt="absara" /> </p> -->
-
-- 🔭 I’m currently working on through proofreading the resources on [javascript.info.](javascript.info)
+<!-- 
+- 🔭 I’m currently working on through proofreading the resources on [javascript.info.](javascript.info) -->
 
 - 🌱 I’m currently reinforcing **my datastructures and algorithms proficiency.**
 
